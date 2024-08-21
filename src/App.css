@@ -1,0 +1,13 @@
+/* src/App.css */
+.video-container {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+}
+
+video {
+  width: 100%;
+  max-width: 800px;
+}
